@@ -1,4 +1,4 @@
-lude<stdio.h>
+include<stdio.h>
 #include<conio.h>
 void main()
 {
@@ -7,7 +7,7 @@ void main()
       scanf("%d",&n);
       for(i=1;i<=n,i++);
       {
-          for(j=i;j,=n;j++);
+          for(j=i;j<=n;j++);
           {
                PRINTF("\n");
           }
